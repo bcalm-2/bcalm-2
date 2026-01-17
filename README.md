@@ -14,4 +14,9 @@ Aspiring Full Stack Developer passionate about building responsive web applicati
 ## 🛠️ Tech Stack
 Python | C | C++ | HTML | CSS | JavaScript | React | Git | GitHub
 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bcalm-2&theme=dark)
+
+
+
+
 
